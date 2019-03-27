@@ -3,9 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/asmaa/Documents/blog/resources/views/masterlayouts/navbar.blade.php</file>
-            <file>file:/home/asmaa/Documents/blog/resources/views/masterlayouts/</file>
+            <file>file:/home/asmaa/Documents/blog/app/post.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/posts/edit.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/database/migrations/2019_03_25_190839_create_posts_table.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/posts/show.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/auth/login.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/posts/create.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/routes/web.php</file>
             <file>file:/home/asmaa/Documents/blog/resources/views/masterlayouts/master.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/welcome.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/home.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/masterlayouts/navbar.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/resources/views/posts/index.blade.php</file>
+            <file>file:/home/asmaa/Documents/blog/app/Http/Controllers/PostsController.php</file>
+            <file>file:/home/asmaa/Documents/blog/app/Http/Controllers/Controller.php</file>
         </group>
     </open-files>
 </project-private>
