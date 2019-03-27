@@ -10,14 +10,14 @@
 
 
     <h1>Users</h1>
-    <ul>
+    <div class="container">
       @foreach($user as $user)
-      <li>{{$user->name}}</li>
-      <li>{{$user->email}}</li>
-      <li>{{$user->created_at}}</li>
-      <li>{{$user->updated_at}}</li>
+      <div>{{$user->name}}</div>
+      <div>{{$user->email}}</div>
+      <div>{$user->created_at}}</div>
+      <div>{{$user->updated_at}}</div>
       @endforeach
-    </ul>
+    </div>
 
     <h2>Add Comment</h2>
     <form action="/posts/show/{{$post->id}}" method="POST">
@@ -42,11 +42,11 @@
     </form> 
     @if(count($errors))
     <div class="alert alert-danger">
-      <ul>
+      <div>
         @foreach($errors->all() as $key=>$error)
-        <li>{{$error}}</li>
+        <div>{{$error}}</div>
         @endforeach
-      </ul>
+      </div>
     </div>
     @endif
 @stop
